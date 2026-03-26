@@ -1,5 +1,5 @@
 # EX 23 C program to store and display the name, id, age and salary of an employee using structure(using array of structure).
-## DATE:11/05/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to store and display the name, id, age and salary of an employee using structure(using array of structure).
 
